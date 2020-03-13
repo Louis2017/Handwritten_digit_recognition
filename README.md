@@ -29,8 +29,9 @@ python main.py
 
 - Windows or Linux
 - GPU is not necessary, CPU is OK
-- Tensorflow 1.X
 - Python 2.7, 3.5 or 3.6
+- Tensorflow 1.X
+- Pillow
 
 ## Welcome to star and fork
 
