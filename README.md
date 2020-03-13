@@ -1,4 +1,4 @@
-#A Handwritten Digit Recognition GUI System
+##A Handwritten Digit Recognition GUI System
 
 ## Description
 
