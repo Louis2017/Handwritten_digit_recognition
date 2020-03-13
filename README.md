@@ -1,6 +1,7 @@
 
 ##A Handwritten Digit Recognition GUI System
 
+This repository provides codes for the handwritten digit recoginition GUI system.
 
 ## Description
 
