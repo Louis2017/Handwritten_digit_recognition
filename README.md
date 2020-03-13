@@ -1,5 +1,5 @@
 
-##A Handwritten Digit Recognition GUI System
+<p> **A Handwritten Digit Recognition GUI System** </p>
 
 This repository provides codes for the handwritten digit recoginition GUI system.
 
